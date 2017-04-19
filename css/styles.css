@@ -1,5 +1,7 @@
 body {
   background-color: lightblue;
+  max-width: 1100px;
+  min-width: 1100px;
 }
 
 .intro {
@@ -13,10 +15,11 @@ body {
   font-family: times;
   border: solid 3px;
   background-color: green;
+  margin-bottom: 20px;
+  padding: 10px;
 }
 
 .about {
   font-weight: lighter;
   color: white;
-
 }
