@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+}
+
+.intro {
+  color: yellow;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.entries {
+  color: pink;
+  font-family: times;
+  border: solid 3px;
+  background-color: green;
+}
+
+.about {
+  font-weight: lighter;
+  color: white;
+
+}
